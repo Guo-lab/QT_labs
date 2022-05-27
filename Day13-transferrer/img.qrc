@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>8414647.png</file>
+        <file>people.png</file>
+        <file>sent.png</file>
+        <file>about.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>src.png</file>
+        <file>kylin.png</file>
+        <file>11.png</file>
+        <file>22.png</file>
+        <file>2080284.png</file>
+    </qresource>
+</RCC>
