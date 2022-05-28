@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>go.png</file>
+        <file>last.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>sound.png</file>
+        <file>RC.png</file>
+        <file>nancy.png</file>
+    </qresource>
+    <qresource prefix="/mp3">
+        <file>MessageSound.mp3</file>
+        <file>Qian.mp3</file>
+        <file>Nancy.mp3</file>
+    </qresource>
+</RCC>
