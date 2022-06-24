@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Update</class>
+ <widget class="QMainWindow" name="Update">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>384</width>
+    <height>64</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Update data from remote</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"> background-color:rgba(88,88,88,88%);</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background:transparent;
+color: white;
+font-size: 15px;
+border: 0px solid #dcdfe6;
+border-radius: 5px;
+hover{background-color:rgba(169,169,169,90%)};
+pressed{background-color:rgba(90,90,90,90%);};
+checked{background-color:rgba(90,90,90,90%);};</string>
+    </property>
+    <property name="text">
+     <string>GET</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>199</x>
+      <y>20</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background:transparent;
+color: white;
+font-size: 15px;
+border: 0px solid #dcdfe6;
+border-radius: 5px;
+hover{background-color:rgba(169,169,169,90%)};
+pressed{background-color:rgba(90,90,90,90%);};
+checked{background-color:rgba(90,90,90,90%);};</string>
+    </property>
+    <property name="text">
+     <string>POST</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
